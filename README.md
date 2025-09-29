@@ -20,6 +20,7 @@ Microsoft 365 no longer provides ClipArt, so this script was created to generate
 ```bash
 pip install pillow
 
+##
 3. Run the script
 python clipart_generator.py
 
